@@ -437,6 +437,7 @@ left: 50%;
     border: 0;
     border-bottom: 1px solid #ffffff42;
     padding: 30px 30px;
+    color: #fff;
 }
 .input-design input::placeholder{
     color: #fff;
@@ -449,6 +450,7 @@ left: 50%;
     border: 0;
     border-bottom: 1px solid #ffffff42;
     padding: 30px;
+    color:#fff;
 }
 .input-design input:focus{
     background-color: transparent;
